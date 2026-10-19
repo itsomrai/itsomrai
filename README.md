@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 Hi, I'm Om Rai, a first-year B.Tech Computer Science and Engineering student at GLA University, Mathura. I'm passionate about software development, problem-solving, and building real-world projects.<br><br>I have learned Java, Python, C, HTML, CSS, and JavaScript, and I'm currently working on strengthening my Data Structures and Algorithms (DSA) skills through my IRL DSA project. I enjoy exploring new technologies, improving my coding abilities, and turning ideas into practical solutions.<br><br>My goal is to become a skilled software developer by continuously learning, building innovative projects, and solving challenging problems. I'm always eager to collaborate, explore new opportunities, and grow as a programmer.
 
 
@@ -17,11 +17,5 @@ Hi, I'm Om Rai, a first-year B.Tech Computer Science and Engineering student at 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itsomrai&limit=5&theme=bear&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=itsomrai&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
