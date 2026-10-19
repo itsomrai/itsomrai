@@ -10,10 +10,10 @@ Hi, I'm Om Rai, a first-year B.Tech Computer Science and Engineering student at 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=itsomrai&theme=bear&hide_border=false&include_all_commits=true&count_private=true&v=4)<br/>
 ![](https://streak-stats.demolab.com/?user=itsomrai&theme=bear&hide_border=false&v=4)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsomrai&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=4)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsomrai&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itsomrai&theme=radical&no-frame=false&no-bg=true&margin-w=4&v=4)
+![](https://github-profile-trophy.vercel.app/?username=itsomrai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
